@@ -22,7 +22,7 @@
 ## Getting Started
 Download the [latest release](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) of the firmware.  
 
-Check out the project [wiki](https://github.com/justcallmekoko/ESP32Marauder/wiki) for a full overview of the ESP32 Marauder
+Check out the project [wiki](https://github.com/justcallmekoko/ESP32Marauder/wiki) for a full overview of the ESP32 Marauder / Punisher
 
 # For Sale Now
 You can buy the ESP32 Marauder using [this link](https://www.justcallmekokollc.com)
