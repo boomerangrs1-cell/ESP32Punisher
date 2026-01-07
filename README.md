@@ -24,5 +24,5 @@ Download the [latest release](https://github.com/justcallmekoko/ESP32Marauder/re
 
 Check out the project [wiki](https://github.com/justcallmekoko/ESP32Marauder/wiki) for a full overview of the ESP32 Marauder / Punisher
 
-# For Sale Now
+# For Sale Now (Marauder)
 You can buy the ESP32 Marauder using [this link](https://www.justcallmekokollc.com)
