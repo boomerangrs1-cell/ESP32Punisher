@@ -4,7 +4,7 @@
 <!---Shields/Badges https://shields.io/--->
 
 # ESP32 Punisher
-<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/the-punisher-logo.png-transparent.png?raw=true" width="300"></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/the-punisher-logo-png-transparent.png?raw=false" width="300"></p>
 <p align="center">
   <b>A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32</b>
   <br><br>
